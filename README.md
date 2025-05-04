@@ -14,13 +14,7 @@ This project focuses on predicting the **net hourly electrical energy output (PE
 
 ### 🧠 Workflow Summary
 
-```mermaid
-graph LR
-    A[Data Collection & Cleaning] --> B[Feature Selection]
-    B --> C[Model Building (ANN, RF, XGBoost, LR)]
-    C --> D[Model Evaluation (MAE, MSE, RMSE, MAPE)]
-    D --> E[Power BI Dashboard Design]
-```
+<pre> ```mermaid graph LR A[Data Collection & Cleaning] --> B[Feature Selection] B --> C[Model Building: ANN, Random Forest, XGBoost, Linear Regression] C --> D[Model Evaluation: MAE, RMSE, MAPE, MSE] D --> E[Dashboard Design in Power BI] ``` </pre>
 
 ## 🧮 Input Features
 
